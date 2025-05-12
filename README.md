@@ -19,5 +19,4 @@
   The completed calculator app features a clean interface and handles basic arithmetic operations efficiently. It's a solid foundation for further enhancements, such as implementing advanced mathematical functions or improving the UI design.
 </p>
 <br>
-![calc](https://github.com/user-attachments/assets/e47f254e-ff79-44bc-beaf-577e544fb784)
-<img src="4.letnik/medo/calc.png">
+<img src="[4.letnik/medo/calc.png](https://github.com/user-attachments/assets/e47f254e-ff79-44bc-beaf-577e544fb784)">
