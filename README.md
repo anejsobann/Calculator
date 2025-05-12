@@ -20,3 +20,4 @@
 </p>
 <br>
 ![calc](https://github.com/user-attachments/assets/e47f254e-ff79-44bc-beaf-577e544fb784)
+<img src="4.letnik/medo/calc.png">
