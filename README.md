@@ -1,4 +1,4 @@
-<h1>Calculator</h1>
+![image](https://github.com/user-attachments/assets/ad2e63cb-68e4-4e38-89f6-1e4287030ec2)<h1>Calculator</h1>
 <br>
 <h2>🧩 Project Overview</h1>
 <p>
@@ -18,3 +18,5 @@
 <p>
   The completed calculator app features a clean interface and handles basic arithmetic operations efficiently. It's a solid foundation for further enhancements, such as implementing advanced mathematical functions or improving the UI design.
 </p>
+<br>
+![calc](https://github.com/user-attachments/assets/15c3a05c-0fcb-4f3a-80a4-4b8d512d4860)
